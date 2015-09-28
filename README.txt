@@ -8,3 +8,4 @@ Repository that contains the list the tech blogs that I think are good reads for
 3) http://aosabook.org/en/500L/ & https://github.com/aosabook/500lines
 
 4) CS183C: Technology-enabled Blitzscaling: The Visible Secret of Silicon Valley’s Success: https://www.youtube.com/playlist?list=PLnsTB8Q5VgnVzh1S-VMCXiuwJglk5AV--
+or www.medium.com/notes-essays-cs183c-technology-enabled-blitzscalin/reid-hoffman-john-lilly-and-allen-blue-s-cs183c-technology-enabled-blitzscaling-class-1-notes-a93b119a51b9
