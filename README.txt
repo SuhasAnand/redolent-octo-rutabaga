@@ -10,3 +10,5 @@ Repository that contains the list the tech blogs that I think are good reads for
 4) CS183C: Technology-enabled Blitzscaling: The Visible Secret of Silicon Valley’s Success: https://www.youtube.com/playlist?list=PLnsTB8Q5VgnVzh1S-VMCXiuwJglk5AV--
 or 
 https://medium.com/notes-essays-cs183c-technology-enabled-blitzscalin
+
+5) http://n00tc0d3r.blogspot.com/
