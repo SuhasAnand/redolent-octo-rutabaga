@@ -12,3 +12,7 @@ or
 https://medium.com/notes-essays-cs183c-technology-enabled-blitzscalin
 
 5) http://n00tc0d3r.blogspot.com/
+
+6) http://betathoughts.blogspot.com/2007/06/brief-history-of-consensus-2pc-and.html
+
+7) http://the-paper-trail.org/
