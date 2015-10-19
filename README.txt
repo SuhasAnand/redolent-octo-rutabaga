@@ -9,10 +9,13 @@ Repository that contains the list the tech blogs that I think are good reads for
 
 4) CS183C: Technology-enabled Blitzscaling: The Visible Secret of Silicon Valley’s Success: https://www.youtube.com/playlist?list=PLnsTB8Q5VgnVzh1S-VMCXiuwJglk5AV--
 or 
-https://medium.com/notes-essays-cs183c-technology-enabled-blitzscalin
+https://medium.com/notes-essays-cs183c-technology-enabled-blitzscalin & https://medium.com/cs183c-blitzscaling-class-collection/latest
 
 5) http://n00tc0d3r.blogspot.com/
 
 6) http://betathoughts.blogspot.com/2007/06/brief-history-of-consensus-2pc-and.html
 
 7) http://the-paper-trail.org/
+
+8) http://henryr.github.io/distributed-systems-readings/
+
