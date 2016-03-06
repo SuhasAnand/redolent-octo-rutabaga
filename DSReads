@@ -1,0 +1,147 @@
+THEORITICAL ASPECTS	
+
+Timing Model	http://videlalvaro.github.io/2013/12/failure-modes-in-distributed-systems.html
+Interprocess Communication	
+Failure Modes	
+Failure Detectors	
+Leader Election	
+Consensus	
+Quorums	
+Time In Distributed Systems 	
+	
+A Distributed Systems Reading List	"https://dancres.github.io/Pages/
+
+
+https://github.com/papers-we-love/papers-we-love/tree/master/distributed_systems
+
+
+A collections of notes on papers, tech talks and articles	https://stephenholiday.com/notes/
+	
+Distributed systems	http://book.mixu.net/distsys/
+	
+Notes on Distributed Systems for Young Bloods	http://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/
+	
+A Note on Distributed Computing	http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.41.7628&rep=rep1&type=pdf
+	
+The fallacies of distributed computing – 8 fallacies of distributed computing that set the stage for the kinds of things system designers forget. / The Seven Deadly Sins of Distributed Systems	https://www.usenix.org/legacy/event/worlds04/tech/full_papers/muir/muir.pdf
+	
+Time, Clocks, and the Ordering of Events in a Distributed System	http://research.microsoft.com/en-us/um/people/lamport/pubs/time-clocks.pdf
+	
+Interval Tree Clocks: A Logical Clock for Dynamic Systems	http://gsd.di.uminho.pt/members/cbm/ps/itc2008.pdf
+	
+CAP Theorem	http://codahale.com/you-cant-sacrifice-partition-tolerance
+	http://the-paper-trail.org/blog/the-theorem-that-will-not-go-away/
+	http://the-paper-trail.org/blog/cap-confusion-problems-with-partition-tolerance/
+	
+FLP	http://the-paper-trail.org/blog/a-brief-tour-of-flp-impossibility/
+	http://cs-www.cs.yale.edu/homes/arvind/cs425/doc/fischer.pdf
+	
+FLP and CAP aren’t the same thing	http://the-paper-trail.org/blog/flp-and-cap-arent-the-same-thing/
+	
+CAP Twelve Years Later: How the "Rules" Have Changed	http://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed
+	
+Deconstructing the `CAP theorem' for CM and DevOps	http://markburgess.org/blog_cap.html
+	
+Please stop calling databases CP or AP	https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html
+	
+A brief history of Consensus, 2PC and Transaction Commit	http://betathoughts.blogspot.com/2007/06/brief-history-of-consensus-2pc-and.html
+	
+2Phase Commit	http://the-paper-trail.org/blog/consensus-protocols-two-phase-commit/
+	
+3Phase Commit	http://the-paper-trail.org/blog/consensus-protocols-three-phase-commit/
+	
+Consensus Protocol Illustration	http://the-paper-trail.org/blog/consensus-with-lossy-links-establishing-a-tcp-connection/
+	
+Paxos 
+  http://the-paper-trail.org/blog/consensus-protocols-paxos/
+	http://the-paper-trail.org/blog/consensus-protocols-a-paxos-implementation/
+	http://the-paper-trail.org/blog/on-some-subtleties-of-paxos/
+	http://static.googleusercontent.com/media/research.google.com/en//archive/paxos_made_live.pdf
+	http://research.microsoft.com/en-us/um/people/lamport/pubs/lamport-paxos.pdf
+	
+Raft	http://the-paper-trail.org/blog/on-raft-briefly/
+	https://raft.github.io/
+	
+Zab: High-performance broadcast for primary-backup systems	http://web.stanford.edu/class/cs347/reading/zab.pdf
+	
+Distributed Snapshots: Determining Global States of Distributed Systems	http://research.microsoft.com/en-us/um/people/lamport/pubs/chandy.pdf
+	
+There is No Now	https://queue.acm.org/detail.cfm?id=2745385
+	
+Barbara Liskov's Turing Award, and Byzantine Fault Tolerance	http://the-paper-trail.org/blog/barbara-liskovs-turing-award-and-byzantine-fault-tolerance/
+	
+How consistent is eventual consistency ?	http://the-paper-trail.org/blog/how-consistent-is-eventual-consistency
+	
+Don't Settle for Eventual Consistency	https://queue.acm.org/detail.cfm?id=2610533
+	
+Eventually Consistent	https://queue.acm.org/detail.cfm?id=1466448
+	
+BASE: An ACID alternative	http://queue.acm.org/detail.cfm?id=1394128
+	
+Consistent Hashing and Random Trees: Distributed Caching Protocols for Relieving Hot Spots on the World Wide Web	https://www.akamai.com/us/en/multimedia/documents/technical-publication/consistent-hashing-and-random-trees-distributed-caching-protocols-for-relieving-hot-spots-on-the-world-wide-web-technical-publication.pdf
+	
+	
+LARGE SCALE DISTRIBUTED SYSTEMS	
+Dynamo	http://the-paper-trail.org/blog/consistency-and-availability-in-amazons-dynamo/
+	http://www.allthingsdistributed.com/2007/10/amazons_dynamo.html
+	
+GFS	http://the-paper-trail.org/blog/the-google-file-system/
+	http://www.cs.cornell.edu/projects/ladis2009/talks/dean-keynote-ladis2009.pdf
+	http://the-paper-trail.org/blog/gfs-retrospective-in-acm-queue/
+	
+BigTable	http://the-paper-trail.org/blog/bigtable-googles-distributed-data-store/
+	
+Pnuts	http://the-paper-trail.org/blog/yahoos-pnuts/
+	
+Dremel: Interactive Analysis of Web-Scale Datasets	http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36632.pdf
+	
+Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications	https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf
+	
+The Chubby lock service for loosely-coupled distributed systems	http://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf
+	
+Spanner: Google’s Globally-Distributed Database	http://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf
+	
+Kafka: a Distributed Messaging System for Log Processing	https://research.microsoft.com/en-us/um/people/srikanth/netdb11/netdb11papers/netdb11-final12.pdf
+	
+OPTIONAL READINGS	
+Building Linkedln's Real-time Activity Data Pipeline	http://sites.computer.org/debull/A12june/pipeline.pdf
+	
+Amazon DynamoDB – a Fast and Scalable NoSQL Database Service Designed for Internet Scale Applications	http://www.allthingsdistributed.com/2012/01/amazon-dynamodb.html
+	
+DynamoDB One Year Later: Bigger, Better, and 85% Cheaper	http://www.allthingsdistributed.com/2013/03/dynamodb-one-year-later.html
+	
+Expanding the Cloud: Faster, More Flexible Queries with DynamoDB	http://www.allthingsdistributed.com/2013/04/dynamdb-local-secondary-indices.html
+	
+DynamoDB Keeps Getting Better (and cheaper!)	http://www.allthingsdistributed.com/2013/05/dynamodb-keeps-getting-better-and-cheaper.html
+	
+Fine-Grained Access Control for Amazon DynamoDB	https://aws.amazon.com/blogs/aws/fine-grained-access-control-for-amazon-dynamodb/
+	http://www.allthingsdistributed.com/2013/10/mobile-app-data-management-dynamodb.html
+	
+The Engineering Behind Twitter’s New Search Experience	https://blog.twitter.com/2011/the-engineering-behind-twitter-s-new-search-experience
+	
+The Log: What every software engineer should know about real-time data's unifying abstraction	https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
+	
+Kafka papers and presentations	https://cwiki.apache.org/confluence/display/KAFKA/Kafka+papers+and+presentations
+	
+The C10K problem	http://www.kegel.com/c10k.html
+	
+The Datacenter as a Computer An Introduction to the Design of Warehouse-Scale Machine	http://www.cs.berkeley.edu/~rxin/db-papers/WarehouseScaleComputing.pdf
+	
+Anti-RDBMS: A list of distributed key-value stores	http://www.metabrew.com/article/anti-rdbms-a-list-of-distributed-key-value-stores
+	
+Readings	http://the-paper-trail.org/blog/the-elephant-was-a-trojan-horse-on-the-death-of-map-reduce-at-google/
+	
+Columnar Storage	http://the-paper-trail.org/blog/columnar-storage/
+	
+Anti-Caching	http://the-paper-trail.org/blog/paper-notes-anti-caching/
+	
+MemC3, a better Memcached	http://the-paper-trail.org/blog/paper-notes-memc3-a-better-memcached/
+	
+High-Performance Concurrency Control Mechanisms for Main-Memory Databases	http://arxiv.org/pdf/1201.0228v1.pdf
+	
+OSDI '08: Corey, an operating system for many cores	http://the-paper-trail.org/blog/osdi-08-corey-an-operating-system-for-many-cores/
+	
+OSDI '08 – CuriOS: Improving Reliability Through Operating System Structure	http://the-paper-trail.org/blog/osdi-08-curios-improving-reliability-through-operating-system-structure/
+
+Websites:	https://www.quora.com/What-are-some-good-resources-for-learning-about-distributed-computing-Why
+	http://highscalability.com/all-time-favorites/
